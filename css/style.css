@@ -1,0 +1,87 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: 0;
+}
+ul {
+  list-style-type: none;
+}
+a {
+  text-decoration: none;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.03em;
+}
+.header {
+}
+.nav-header {
+}
+.logo-header {
+}
+.logo-web-header {
+}
+.logo-studio-header {
+}
+.nav-list {
+}
+.nav-link {
+}
+.contacts-header {
+}
+.mail-header {
+}
+.tel-header {
+}
+.main-section {
+}
+.h1-title {
+}
+.order-service {
+}
+.features {
+}
+.list-features {
+}
+.features-details {
+}
+.features-title {
+}
+.features-paragraph {
+}
+.features-punctuality {
+}
+.features-plan {
+}
+.features-technologies {
+}
+.engagement {
+}
+.engagement-list {
+}
+.engagement-img {
+}
+.team {
+}
+.team-list {
+}
+.team-title {
+}
+.team-profession {
+}
+.footer {
+}
+.logo-footer {
+}
+.web-footer {
+}
+.studio-footer {
+}
+.adress {
+}
+.mail-footer {
+}
+.tel-footer {
+}
